@@ -1,0 +1,19 @@
+.metronome{
+    padding:30px;
+    max-width: 400px;
+    test-align:center;
+    margin:0 auto;
+}
+.bpmSlider input{
+    margin:10px;
+    width:100%;
+}
+.metronome button{
+    background: #c94d46;
+    padding: 7px;
+    border: 1px solid #832420;
+    border-radius: 20px;
+    width: 100px;
+    color:  #fff;
+    font-size: 18px;
+}
